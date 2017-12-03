@@ -121,7 +121,7 @@ namespace ComicBookGallery.Data
                 },
                 new ComicBook()
                 {
-                    Id = 5,
+                    Id = 6,
                     Series = series[2],
                     IssueNumber = 3,
                     DescriptionHtml = "<p>The most powerful spell in creation has been stolen. “The Book of Remaking” allows its user to recreate reality in their image, and the new Maestro is the only one who can open it. Now the thieves are coming for him. Willy's reign might be a short one.</p>",
@@ -136,7 +136,7 @@ namespace ComicBookGallery.Data
                 },
                 new ComicBook()
                 {
-                    Id = 5,
+                    Id = 7,
                     Series = series[2],
                     IssueNumber = 4,
                     DescriptionHtml = "<p>With his enemies in pursuit, Willy travels to the Underworld in hopes of making an alliance with his father's greatest enemy. Meanwhile, his mother reflects upon the events that banished her and her son. Also, Loyal Backstabber’s origins are revealed!</p>",
@@ -151,7 +151,7 @@ namespace ComicBookGallery.Data
                 },
                 new ComicBook()
                 {
-                    Id = 5,
+                    Id = 8,
                     Series = series[2],
                     IssueNumber = 5,
                     DescriptionHtml = "<p>Sometimes making a deal with the devil is necessary, and if you're smart enough and a clever negotiator, you can come out on top. Unfortunately Willy is neither—he's on the menu, right after the crudites. Meanwhile, Wren and Margaret discover the commonality between magic and shopping wholesale.</p>",

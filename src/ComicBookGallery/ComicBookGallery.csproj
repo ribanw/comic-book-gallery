@@ -94,13 +94,16 @@
     <Content Include="Fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Images\bone-50.jpg" />
+    <Content Include="Images\bone.jpg" />
     <Content Include="Images\maestros-1.jpg" />
     <Content Include="Images\maestros-2.jpg" />
     <Content Include="Images\maestros-3.jpg" />
     <Content Include="Images\maestros-4.jpg" />
     <Content Include="Images\maestros-5.jpg" />
+    <Content Include="Images\maestros.jpg" />
     <Content Include="Images\the-amazing-spider-man-657.jpg" />
     <Content Include="Images\the-amazing-spider-man-700.jpg" />
+    <Content Include="Images\the-amazing-spider-man.jpg" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -135,6 +138,8 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\ComicBooks\Index.cshtml" />
     <Content Include="Views\Series\Index.cshtml" />
+    <Content Include="Views\Series\Detail.cshtml" />
+    <Content Include="Views\Shared\_ComicBooksList.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
